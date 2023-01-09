@@ -1,15 +1,24 @@
-import mysql.connector
+#importing mysql connector
+
+import mysql.connector  
+
+#Connecting to MySQL Using Connector/Python
 
 dbpy = mysql.connector.connect(
-  host="localhost",
+  host="localhost",  
   user="abc",
   password="password"
 )
 
-print(dbpy.is_connected())
+#Checking connection status
 
-dbcur = dbpy.cursor()
+print(dbpy.is_connected()) 
 
+#Creating Cursor object to interact with the MySQL server
+
+dbcur = dbpy.cursor() 
+
+# execute the statement
 dbcur.execute("show databases")
 
 for x in dbcur:
