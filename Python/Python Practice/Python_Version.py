@@ -11,3 +11,5 @@ import platform
 print("Platform Version : ", platform.python_version())
 
 print("Python version as tuple :", platform.python_version_tuple())
+
+print(platform.python_compiler())
