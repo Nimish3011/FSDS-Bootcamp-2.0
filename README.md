@@ -1,2 +1,5 @@
-# FSDS-Bootcamp-2.0
-Full Stack Data Science Bootcamp 2.0 
+Introduction
+
+Food is a popular topic in India due to the country's many varieties of spices. The restaurant industry has grown significantly, attracting both national and international players. However, the industry faces a shortage of skilled professionals, which presents opportunities for those seeking to work in this field. To meet the industry's demands, culinary arts institutes now offer expanded education options.
+
+In the early nineties, the Indian food service market was dominated by a few brands, but today, the market has significantly grown. The increasing number of consumers in smaller towns, along with greater exposure to new cultures and cuisines, has contributed to the industry's growth. Additionally, there is a rising trend of eating outside of the home. As such, new restaurants should carefully consider market trends when deciding on the best location for their business. Conducting a thorough analysis of these factors can provide valuable insights for new restaurant owners.
